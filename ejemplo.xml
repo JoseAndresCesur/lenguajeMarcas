@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<futbol>
+    <jugador posicion="cierre" nombre="Jose Andres" dorsal="7" temporada="2022/2023">
+        <jornada numjornada="1">
+            <convocado>Si</convocado>
+            <min_jugados>90</min_jugados>
+            <goles>1</goles>
+            <asistencias>0</asistencias>
+        </jornada>
+        <jornada numjornada="2">
+            <convocado>Si</convocado>
+            <min_jugados>45</min_jugados>
+            <goles>0</goles>
+            <asistencias>3</asistencias>
+        </jornada>
+    </jugador>
+</futbol>
